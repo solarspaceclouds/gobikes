@@ -10,6 +10,9 @@ The above packages can be downloaded within a python virtual environment via the
 - pip install Django
 - pip install djangorestframework
 - pip install pyrebase4
+- 
+## Firebase App is mainly for connecting Django to firebase
+- currently to handle only user data within user database
 
 # To run the project on a server, make sure you are in gobikes directory, then run: python manage.py runserver
 # To migrate changes, run: python manage.py migrate
